@@ -7,7 +7,8 @@ I'd like to make something or fix anything without being judged or silenced or g
 - ⚡ Fun fact: Keep your stuff maintained and I won't have to tear it apart to fix it.
 
 Allow me to help in any way, I may make mistakes but I'm still learning, 
-but if its broken and unusable don't silence me because I fixed it for you...
+
+But if its broken and unusable don't silence me because I fixed it for you...
 
 <!--
 **Farioto/Farioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
