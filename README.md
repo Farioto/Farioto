@@ -3,12 +3,9 @@
 - 💞️ I’m looking to collaborate on Projects
 - 🌱 I’m currently learning building executables
 
-I'd like to make something or fix anything without being judged or silenced or gatekeeped,
-- ⚡ Fun fact: Keep your stuff maintained and I won't have to tear it apart to fix it.
+I'd like to make something or fix anything without being judged or silenced or gatekept,
 
 Allow me to help in any way, I may make mistakes but I'm still learning, 
-
-But if its broken and unusable don't silence me because I fixed it for you...
 
 <!--
 **Farioto/Farioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
